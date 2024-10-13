@@ -2,6 +2,8 @@
 
 This repository contains the code and documentation for a mini drone project using brushed motors and an ESP32-based control system.
 
+![Mini quadcopter](images/drone-img.jpg)
+
 ## Project Overview
 
 The mini drone uses the following key components:
@@ -34,7 +36,7 @@ The mini drone uses the following key components:
 
 ## Circuit Diagram
 
-![Circuit Diagram](Architecture.jpg)
+![Circuit Diagram](images/Architecture.jpg)
 
 ## Setup and Usage
 
