@@ -34,7 +34,7 @@ The mini drone uses the following key components:
 
 ## Circuit Diagram
 
-![Circuit Diagram](Architecture.png)
+![Circuit Diagram](Architecture.jpg)
 
 ## Setup and Usage
 
