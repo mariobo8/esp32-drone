@@ -27,7 +27,7 @@ The mini drone uses the following key components:
 |-----------|----------|-------------|------|
 | Brushed Motors, frame and propellers | 4 | €14.00 | [Link](https://www.aliexpress.com/item/32776829828.html?spm=a2g0o.order_list.order_list_main.166.218f3696a4j7cG) |
 | Flight Controller | 1 | €16.00| [Link](https://www.aliexpress.com/item/1005005253184101.html?spm=a2g0o.order_list.order_list_main.152.218f3696a4j7cG) |
-| Brushed ESC | 4 | €5.00 | [Link](https://it.aliexpress.com/item/1005007060330812.html?spm=a2g0o.order_list.order_list_main.131.218f3696a4j7cG&gatewayAdapt=glo2ita)] |
+| Brushed ESC | 4 | €5.00 | [Link](https://it.aliexpress.com/item/1005007060330812.html?spm=a2g0o.order_list.order_list_main.131.218f3696a4j7cG&gatewayAdapt=glo2ita) |
 | ESP32 Module | 2 | €6.00 | [Link](https://www.aliexpress.com/item/32858054775.html?spm=a2g0o.order_list.order_list_main.147.218f3696a4j7cG) |
 | Battery | 1 | €7.00 | [Link](https://www.amazon.de/-/en/dp/B07KWDPP7W) |
 | Battery holder | 1 | €2.00 | [Link](https://www.aliexpress.com/item/1005001346705221.html?spm=a2g0o.order_list.order_list_main.156.218f3696a4j7cG) |
