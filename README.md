@@ -57,10 +57,6 @@ The mini drone uses the following key components:
 
 We welcome contributions to this project! Please read our contributing guidelines before submitting pull requests.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ## Future Objectives
 
 While this project currently focuses on manual control via a joystick, our long-term objective is to make the drone autonomous. Future development will involve implementing features such as:
